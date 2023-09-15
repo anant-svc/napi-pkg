@@ -1,0 +1,23 @@
+{
+  "name": "anant-svc/napi-pkg-linux-x64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "napi-pkg.linux-x64-gnu.node",
+  "files": [
+    "napi-pkg.linux-x64-gnu.node"
+  ],
+  "description": "this is test napi pkg",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/anant-svc/napi-pkg",
+  "libc": [
+    "glibc"
+  ]
+}
