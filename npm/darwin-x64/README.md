@@ -1,3 +1,3 @@
-# `anant-svc/napi-pkg-darwin-x64`
+# `@anant-svc/napi-pkg-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `anant-svc/napi-pkg`
+This is the **x86_64-apple-darwin** binary for `@anant-svc/napi-pkg`

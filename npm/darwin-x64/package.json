@@ -1,5 +1,5 @@
 {
-  "name": "anant-svc/napi-pkg-darwin-x64",
+  "name": "@anant-svc/napi-pkg-darwin-x64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "napi-pkg.darwin-x64.node",
+  "main": "@anant-svc/napi-pkg.darwin-x64.node",
   "files": [
-    "napi-pkg.darwin-x64.node"
+    "@anant-svc/napi-pkg.darwin-x64.node"
   ],
   "description": "this is test napi pkg",
   "license": "MIT",

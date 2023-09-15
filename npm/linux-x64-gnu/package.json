@@ -1,5 +1,5 @@
 {
-  "name": "anant-svc/napi-pkg-linux-x64-gnu",
+  "name": "@anant-svc/napi-pkg-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "napi-pkg.linux-x64-gnu.node",
+  "main": "@anant-svc/napi-pkg.linux-x64-gnu.node",
   "files": [
-    "napi-pkg.linux-x64-gnu.node"
+    "@anant-svc/napi-pkg.linux-x64-gnu.node"
   ],
   "description": "this is test napi pkg",
   "license": "MIT",
